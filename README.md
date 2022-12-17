@@ -1,4 +1,3 @@
-# CS_project
-for da skool
+# SQL2Excel
 
-this converts sql tables to excel files and vice versa. you can edit sql tables using excel
+A simple program for converting SQL tables to Excel sheets and vice versa
